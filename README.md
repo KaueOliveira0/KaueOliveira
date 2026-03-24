@@ -11,4 +11,4 @@ Olá, Sou Kauê de Oliveira Estudante de Sistemas de Informação e apaixonado p
 💼 Aberto a oportunidades na área de Desenvolvimento de Sistemas
 
 🔍 Áreas de Interesse:
-Banco de Dados • Rede de Computadores • CyberSegurança • Suporte de Sistemas
+Banco de Dados • Rede de Computadores • CyberSegurança • Suporte de Sistemas • Estrutura de Dados
