@@ -2,6 +2,7 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=9999&color=22779C&background=FFC74C00&width=435&lines=---------------------------------------------------------------------)](https://git.io/typing-svg)
 
+---
 
 # 👨‍💻 Sobre Mim
 
